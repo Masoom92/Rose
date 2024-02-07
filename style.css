@@ -19,6 +19,9 @@ body {
   height: 350px;
   width: 200px;
 }
+h2{
+  text-align: center;
+}
 
 .petals > div {
   position: absolute;
